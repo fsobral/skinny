@@ -21,6 +21,5 @@ Instructions for building and extending `Skinny` can be found in the
 web page](http://fsobral.github.io/skinny/index.html). Complete results
 can be downloaded [here](doc/tables.pdf).
 
-The present algorithm was designed to work with [Algencan version
-2.4](https://www.ime.usp.br/~egbirgin/tango/old-sources/). Modifications
-to work with version 3.1 are under development in `dev` branch.
+The present branch is a developing branch in order to adapt `Skinny` to work with [Algencan version
+3.1](https://www.ime.usp.br/~egbirgin/tango/). We are also including all test problems created during the development of the algorithm.
