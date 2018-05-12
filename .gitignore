@@ -1,6 +1,7 @@
 *~
 *.o
 *.mod
+*.out
 
 # Executables
 eng-toyprob
