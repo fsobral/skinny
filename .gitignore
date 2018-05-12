@@ -1,0 +1,6 @@
+*~
+*.o
+*.mod
+
+# Executables
+eng-toyprob
