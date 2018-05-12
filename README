@@ -1,4 +1,4 @@
-Skinni - An algorithm for constrained derivative-free problems
+Skinny - An algorithm for constrained derivative-free problems
 ==============================================================
 
 `Skinny` is a derivative-free algorithm based on pseudo-random direct
@@ -16,7 +16,10 @@ This version was used to produce the numerical results presented in
     [Submitted
     version](http://www.optimization-online.org/DB_FILE/2011/08/3139.pdf).
 
-Complete results can be downloaded [here](doc/tables.pdf).
+Instructions for building and extending `Skinny` can be found in the
+[author's
+web page](http://fsobral.github.io/skinny/index.html). Complete results
+can be downloaded [here](doc/tables.pdf).
 
 The present algorithm was designed to work with [Algencan version
 2.4](https://www.ime.usp.br/~egbirgin/tango/old-sources/). Modifications
