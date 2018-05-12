@@ -37,15 +37,15 @@
 !                                                            !
 ! This subroutine uses the following modules                 !
 !                                                            !
-! - skinny (SK_PRINTE,SK_RESTTYPE)                           !
+! - skinny (SK_PRINTE,SK_RESTTYPE,compass)                   !
 ! - engdata (engXPrev,ENG_FORRES)                            !
 !                                                            !
 !------------------------------------------------------------!
 
 subroutine restoration(nor,x,l,u,mor,epsfeas,verbose,infeas,flag)
 
-  use skinny
-  use engdata
+  use skinny, only: SK_PRINTE, SK_RESTTYPE, compass
+  use engdata, only: engXPrev, ENG_FORRES
 
   implicit none
 

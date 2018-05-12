@@ -1,4 +1,4 @@
-FC     = gfortran-4.2
+FC     = gfortran
 FFLAGS = -pedantic -O4
 
 #PCLIBS = $(ALGSRC)/libalgencan.a $(DFOSRC)/libdfo.a
